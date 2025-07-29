@@ -42,11 +42,6 @@ pycryptodome
 
 You will also need ffmpeg for resemblyzer to work correctly. Please refer to the resemblyzer documentation for installation instructions for your specific operating system.
 
-Installation
-Clone the repository:
-
-git clone [https://github.com/your-username/voice-secured-vault.git](https://github.com/your-username/voice-secured-vault.git)
-cd voice-secured-vault
 
 Install the required Python packages:
 
